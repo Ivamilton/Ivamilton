@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Ivamilton! 👋
+# Olá, eu sou o Ivamilton! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Desenvolvedor+de+Software;Graduando+em+An%C3%A1lise+e+Dev.+de+Sistemas;Focado+em+Solu%C3%A7%C3%B5es+Modernas+%26+Escal%C3%A1veis;Apaixonado+por+C%C3%B3digo+Limpo+%26+Inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
